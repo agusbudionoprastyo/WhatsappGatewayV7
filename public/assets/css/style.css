@@ -1520,7 +1520,7 @@ a {
 /* Authentication */
 
 .bg-login {
-    background-image: url(../images/bg-login-img.png);
+    /* background-image: url(../images/bg-login-img.png); */
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
