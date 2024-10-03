@@ -1,0 +1,15 @@
+/home/dafm5634/public_html/whatsappgateway/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:222
+    let score = ((_a = content[key].contextInfo) === null || _a === void 0 ? void 0 : _a.forwardingScore) || 0;
+                                    ^
+
+TypeError: Cannot read properties of undefined (reading 'contextInfo')
+    at generateForwardMessageContent (/home/dafm5634/public_html/whatsappgateway/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:222:37)
+    at generateWAMessageContent (/home/dafm5634/public_html/whatsappgateway/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:302:55)
+    at generateWAMessage (/home/dafm5634/public_html/whatsappgateway/node_modules/@whiskeysockets/baileys/lib/Utils/messages.js:515:102)
+    at Object.sendMessage (/home/dafm5634/public_html/whatsappgateway/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:632:69)
+    at Object.sendMedia (/home/dafm5634/public_html/whatsappgateway/server/whatsapp.js:1:10916)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async sendMedia (/home/dafm5634/public_html/whatsappgateway/server/controllers/index.js:1:2401)
+
+Node.js v20.17.0
+Closing stale open session for new outgoing prekey bundle
