@@ -14,7 +14,7 @@
                                 </x-alert>
                             @endif
                             <h5 class="card-title">Sign In</h5>
-                            <p class="card-text mb-5">Hi, welcome to MPWA MD version.</p>
+                            <p class="card-text mb-5">Whatsapp Gateway V7.0.</p>
                             <form class="form-body" action="{{ route('login') }}" method="POST">
                                 @csrf
                                 <div class="row g-3">
@@ -51,10 +51,10 @@
                                             <button type="submit" class="btn btn-primary radius-30">Sign In</button>
                                         </div>
                                     </div>
-                                    <div class="col-12">
+                                    <!-- <div class="col-12">
                                         <p class="mb-0">Don't have an account yet? <a
                                                 href="{{ route('register') }}">Sign up here</a></p>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </form>
                         </div>
