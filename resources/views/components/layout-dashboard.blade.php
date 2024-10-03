@@ -44,7 +44,7 @@ You are not allowed to share or sell this source code without permission.
     {{-- csrf --}}
     <meta name="csrf-token" content="{{ csrf_token() }}" />
 
-    <title>{{ $title }} | MPWA Multi device version</title>
+    <title>{{ $title }} | Whatsapp API</title>
 </head>
 
 <body>

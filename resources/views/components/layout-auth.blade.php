@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="MPWA Multi Device V5.0.0 ,Whatsapp gateway Multi device Beta version">
+    <meta name="description" content="Whatsapp API Multi Device V7.0.0 ,Whatsapp gateway Multi device Beta version">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
     <meta name="keywords"
         content="waapi,wa gateway, whatsapp blast, wamp, mpwa, Ag wa gateway, wa gateway Ag, ">
@@ -11,7 +11,7 @@
     <!-- The above 6 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>{{ $title }} | MPWA MD version</title>
+    <title>{{ $title }} | Whatsapp API</title>
 
     <!-- Styles -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" />
