@@ -32,7 +32,7 @@
                   <img src="" alt="Avatar">
                 </div>
                 <div class="name">
-                  <span>M Pedia</span>
+                  <span>Ag</span>
                   <span class="status">online</span>
                 </div>
                 <div class="actions more">

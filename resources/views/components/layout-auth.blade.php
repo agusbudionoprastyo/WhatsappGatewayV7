@@ -6,8 +6,8 @@
     <meta name="description" content="MPWA Multi Device V5.0.0 ,Whatsapp gateway Multi device Beta version">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
     <meta name="keywords"
-        content="waapi,wa gateway, whatsapp blast, wamp, mpwa, m pedia wa gateway, wa gateway m pedia, ">
-    <meta name="author" content="Ilman Sunanuddin , M pedia">
+        content="waapi,wa gateway, whatsapp blast, wamp, mpwa, Ag wa gateway, wa gateway Ag, ">
+    <meta name="author" content="Ilman Sunanuddin , Ag">
     <!-- The above 6 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->

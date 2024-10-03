@@ -1,6 +1,6 @@
 "use strict";
 
-// Copyright By Ilman Sunanuddin, M pedia
+// Copyright by Ag, Ag
 // Email : Ilmansunannudin2@gmail.com
 // website : https://m-pedia.co.id
 // Whatsap : 6282298859671
